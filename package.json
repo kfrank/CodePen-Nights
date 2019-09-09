@@ -1,0 +1,21 @@
+{
+  "name": "codepen-bright",
+  "displayName": "CodePen Bright",
+  "description": "A High Contrast Syntax Theme created by CodePen",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.37.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "CodePen-Bright",
+        "uiTheme": "vs-dark",
+        "path": "./themes/CodePen-Bright-color-theme.json"
+      }
+    ]
+  }
+}
