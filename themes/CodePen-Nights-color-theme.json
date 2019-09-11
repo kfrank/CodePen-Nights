@@ -196,7 +196,7 @@
       }
     },
     {
-      "name": "Number, Constant, Function Argument, Tag Attribute, Embedded",
+      "name": "Variable Parameter",
       "scope": [
         "variable.parameter.function.language.special",
         "variable.parameter"
@@ -309,6 +309,36 @@
       "settings": {
         "fontStyle": "italic",
         "foreground": "#ae63e4"
+      }
+    },
+    {
+      "name": "Attributes",
+      "scope": [
+        "meta.attribute.class.html",
+        "entity.other.attribute-name.html"
+      ],
+      "settings": {
+        "fontStyle": "italic",
+        "foreground": "#d5d7de"
+      }
+    },
+    {
+      "name": "HTML",
+      "scope": [
+        "meta.attribute.href.html",
+        "meta.attribute.src.html",
+        "text.html.derivative"
+      ],
+      "settings": {
+        "fontStyle": "italic",
+        "foreground": "#ffffff"
+      }
+    },
+    {
+      "name": "HTML",
+      "scope": ["string.quoted.double.html"],
+      "settings": {
+        "foreground": "#5e91f2"
       }
     },
     {

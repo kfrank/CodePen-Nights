@@ -11,3 +11,11 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [0.0.2]
 
 - Changed the highlight border on found search terms to blue from red.
+
+## [0.0.3]
+
+– Readme
+
+## [0.0.4]
+
+– Changed attribute color in HTML from purple to white.
