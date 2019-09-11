@@ -1,8 +1,20 @@
 {
-  "name": "codepen-bright",
-  "displayName": "CodePen Bright",
-  "description": "A High Contrast Syntax Theme created by CodePen",
+  "name": "codepen-nights",
+  "displayName": "CodePen Nights",
+  "description": "A High Contrast Syntax Theme created using CodePen brand colors.",
   "version": "0.0.1",
+  "publisher": "klarefrank",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kfrank/CodePen-Nights"
+  },
+  "keywords": [
+    "Theme",
+    "Dark Theme",
+    "CodePen",
+    "Night Theme",
+    "Accessible Theme"
+  ],
   "engines": {
     "vscode": "^1.37.0"
   },
@@ -12,9 +24,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "CodePen-Bright",
+        "label": "CodePen-Nights",
         "uiTheme": "vs-dark",
-        "path": "./themes/CodePen-Bright-color-theme.json"
+        "path": "./themes/CodePen-Nights-color-theme.json"
       }
     ]
   }

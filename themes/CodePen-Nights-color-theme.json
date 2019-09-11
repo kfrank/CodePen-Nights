@@ -1,5 +1,5 @@
 {
-  "name": "CodePen-Bright",
+  "name": "CodePen-Nights",
   "type": "dark",
   "tokenColors": [
     {
@@ -680,9 +680,10 @@
     "editor.selectionBackground": "#0b89c820",
     "editor.selectionHighlightBackground": "#0b89c820",
     "editor.findMatchBackground": "#000000",
-    "editor.findMatchHighlightBackground": "#00000030",
     "editor.findMatchBorder": "#0ebeff",
-    "editor.findMatchHighlightBorder": "##ffffff30",
+    "editor.findMatchHighlightBorder": "#0b89c8",
+    "editor.findMatchHighlightBackground": "#000000",
+    "editor.findMatchHighlightForeground": "#ffffff",
     "tab.activeBorder": "#0ebeff",
     "tab.activeModifiedBorder": "#717790",
     "tab.unfocusedActiveBorder": "#868CA0",
