@@ -5,3 +5,5 @@ A Visual Studio Code theme based on the High Contrast Syntax Theme in CodePen. T
 “I don’t code late a night, but if I did I’d use this theme.”
 
 **Enjoy!**
+
+![Theme loaded into VSCode with a split screen of a .scss and a .erb file](https://s3-us-west-2.amazonaws.com/s.cdpn.io/83959/EEMjWjfU0AATclm.jpg)
