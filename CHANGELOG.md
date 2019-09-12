@@ -19,3 +19,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [0.0.4]
 
 – Changed attribute color in HTML from purple to white.
+
+## [0.0.5]
+
+- Added image to Readme
