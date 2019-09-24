@@ -6,4 +6,6 @@ A Visual Studio Code theme based on the High Contrast Syntax Theme in CodePen. T
 
 **Enjoy!**
 
+*Note: Still a work in progress.
+
 ![Theme loaded into VSCode with a split screen of a .scss and a .erb file](https://s3-us-west-2.amazonaws.com/s.cdpn.io/83959/EEMjWjfU0AATclm.jpg)
